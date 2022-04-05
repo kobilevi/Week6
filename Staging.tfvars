@@ -1,0 +1,13 @@
+instance_num    = 2
+RG              = "Week6ProjectAnsibleStage"
+VnetName        = "Vnet"
+ScaleSetName    = "StagingScaleSet"
+admin_user_name = "adminuser"
+admin_password  = "Hakolzorem2022"
+pg_user         = "postgres"
+pg_pass         = "Hakolzorem2022"
+okta_org_url    = "dev-16842391.okta.com"
+okta_secret     = "FMDk8CGoi35VAlEt0eaomu092t_c9UQuhiMkugtN"
+okta_client_id  = "0oa43gqp8bCGB2bLB5d7"
+okta_key        = "00t8dgGqWiuv0Cf70gOvNLUDjMQOM3Ob-gGARVXmI3"
+ip              = "147.234.130.54"
